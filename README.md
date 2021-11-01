@@ -1,4 +1,4 @@
-# Empresa JPA Spring
+# Empresa_JPA Spring
 
 Maven Project
 <br>Linguagem: Java
